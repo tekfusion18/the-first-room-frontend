@@ -76,3 +76,14 @@ Ensure you have the following installed on your system:
 - Ensure port `3000` is not in use by other applications.
 - Modify the `Dockerfile` or use `.env` if you need custom environment variables.
 
+## Frontend Libraries to be used
+- [Motion Primitives](https://motion-primitives.com/)
+- [Animata Design](https://animata.design/)
+- [Lukacho](https://ui.lukacho.com/)
+- [Mantine UI](https://ui.mantine.dev/)
+- [Aceternity UI](https://ui.aceternity.com/) - recommended
+- [Daisy UI](https://daisyui.com/)
+- [Shadcn UI](https://ui.shadcn.com/) - recommended
+- [Hero UI](https://www.heroui.com/)
+
+
