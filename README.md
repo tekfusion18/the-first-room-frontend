@@ -24,6 +24,11 @@ Ensure you have the following installed on your system:
    ```
    - The `-p 3000:3000` flag maps port 3000 of the container to port 3000 of your local machine.
 
+4. **Run the Docker Container While listening the local changes**
+   ```sh
+   docker-compose up -d
+   ```
+
 4. **Access the Application**
    Open your browser and go to:
    ```md
